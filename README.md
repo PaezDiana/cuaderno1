@@ -1,6 +1,6 @@
 # Clasificación de Uso y Cobertura del Suelo usando Pytorch
 
-En estee repositorio reposa el contenido y código fuente de un video de Youtube "Land Use and Land Cover Classification using Pytorch" (https://www.youtube.com/watch?v=6Cdwwlkkz80) y (https://www.youtube.com/watch?v=gVEMfvnUwl4). Contiene códigos originales, de Isabelle Tingzon y Ankur Mahesh.
+En este repositorio reposa el contenido y código fuente de un video de Youtube "Land Use and Land Cover Classification using Pytorch" (https://www.youtube.com/watch?v=6Cdwwlkkz80) y (https://www.youtube.com/watch?v=gVEMfvnUwl4). Contiene códigos originales, de Isabelle Tingzon y Ankur Mahesh.
 
 **Autores**: Isabelle Tingzon y Ankur Mahesh
 
