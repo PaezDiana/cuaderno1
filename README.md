@@ -1,6 +1,6 @@
 # Clasificación de Uso y Cobertura del Suelo usando Pytorch
 
-Este repositorio contiene el contenido y el código fuente de un capítulo de un video de Youtube "Inteligencia artificial para las ciencias de la Tierra" (https://youtu.be/6Cdwwlkkz80?si=JROzMt6bx1xQGmAm). Contiene códigos originales, de Isabelle Tingzon y Ankur Mahesh.
+Este repositorio contiene el contenido y el código fuente de un capítulo de un video de Youtube "Land Use and Land Cover Classification using Pytorch" (https://www.youtube.com/watch?v=6Cdwwlkkz80) y (https://www.youtube.com/watch?v=gVEMfvnUwl4). Contiene códigos originales, de Isabelle Tingzon y Ankur Mahesh.
 
 **Autores**: Isabelle Tingzon y Ankur Mahesh
 
