@@ -28,5 +28,5 @@ El video se compone de dos cuadernos principales:
 
 La tradución del video se compone de estos dos cuadernos principales:
 - `1. land_use_land_cover_español_part1.ipynb` <a href="https://colab.research.google.com/github/PaezDiana/cuaderno1/blob/main/land_use_land_cover_espa%C3%B1ol_part1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=14></a> 
-
+- `2. land_use_land_cover_español_part2.ipynb` <a href="https://colab.research.google.com/github/PaezDiana/cuaderno1/blob/main/land_use_land_cover_espa%C3%B1ol_part2_.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=14></a>
 
